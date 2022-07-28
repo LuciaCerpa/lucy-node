@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e05b09e1-d441-4679-867f-dd4fecc71ebc/microsoft.web/sites/subscriptions/e05b09e1-d441-4679-867f-dd4fecc71ebc/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ecommer-f",
+    "appService.deploySubpath": "."
+}
